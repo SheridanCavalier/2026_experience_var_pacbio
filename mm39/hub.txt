@@ -11,7 +11,7 @@ groups https://raw.githubusercontent.com/SheridanCavalier/2025_experience_var_hu
 track CA1_Naive_PacBio
 longLabel CA1 N PB
 shortLabel CA1 N PB
-bigDataUrl https://github.com/SheridanCavalier/2025_experience_var_hub/raw/refs/heads/main/mm39/Astrocyte_Naive.sorted.bam
+bigDataUrl https://github.com/SheridanCavalier/2026_experience_var_pacbio/raw/refs/heads/main/mm39/CA1_Naive_PB.sorted.bam
 type bam 
 group category1
 color 58,83,164
@@ -21,7 +21,7 @@ doWiggle on
 track CA1_Unconditioned_PacBio
 longLabel CA1 U+ PB
 shortLabel CA1 U+ PB
-bigDataUrl https://github.com/SheridanCavalier/2025_experience_var_hub/raw/refs/heads/main/mm39/Astrocyte_UC.sorted.bam
+bigDataUrl https://github.com/SheridanCavalier/2026_experience_var_pacbio/raw/refs/heads/main/mm39/CA1_Unconditioned_PB.sorted.bam
 type bam 
 group category1
 color 108,190,69
@@ -31,7 +31,7 @@ doWiggle on
 track CA1_Conditioned_PacBio
 longLabel CA1 C+ PB
 shortLabel CA1 C+ PB
-bigDataUrl https://github.com/SheridanCavalier/2025_experience_var_hub/raw/refs/heads/main/mm39/Astrocyte_FC.sorted.bam
+bigDataUrl https://github.com/SheridanCavalier/2026_experience_var_pacbio/raw/refs/heads/main/mm39/CA1_Conditioned_PB.sorted.bam
 type bam 
 group category1
 color 242,103,36
