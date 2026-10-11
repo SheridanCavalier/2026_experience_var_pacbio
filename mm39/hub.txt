@@ -1,0 +1,39 @@
+hub sheridan_2026_experience_pacbio
+shortLabel sc_2026_experience_isoforms_pacbio
+useOneFile on
+email scavali1@jh.edu
+longLabel Long read scRNA-seq of mouse hippocampus from three contextual conditions resampled with PacBio Kinnex
+descriptionUrl ucscHub.html 
+
+genome mm39
+groups https://raw.githubusercontent.com/SheridanCavalier/2025_experience_var_hub/refs/heads/main/mm39/groups.txt
+
+track CA1_Naive_PacBio
+longLabel CA1 N PB
+shortLabel CA1 N PB
+bigDataUrl https://github.com/SheridanCavalier/2025_experience_var_hub/raw/refs/heads/main/mm39/Astrocyte_Naive.sorted.bam
+type bam 
+group category1
+color 58,83,164
+visibility pack
+doWiggle on
+
+track CA1_Unconditioned_PacBio
+longLabel CA1 U+ PB
+shortLabel CA1 U+ PB
+bigDataUrl https://github.com/SheridanCavalier/2025_experience_var_hub/raw/refs/heads/main/mm39/Astrocyte_UC.sorted.bam
+type bam 
+group category1
+color 108,190,69
+visibility pack
+doWiggle on
+
+track CA1_Conditioned_PacBio
+longLabel CA1 C+ PB
+shortLabel CA1 C+ PB
+bigDataUrl https://github.com/SheridanCavalier/2025_experience_var_hub/raw/refs/heads/main/mm39/Astrocyte_FC.sorted.bam
+type bam 
+group category1
+color 242,103,36
+visibility pack
+doWiggle on
